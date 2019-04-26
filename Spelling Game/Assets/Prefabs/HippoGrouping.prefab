@@ -343,7 +343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ButtonPressed:
-    actionPath: 
+    actionPath: /actions/default/in/InteractUI
     needsReinit: 0
   inputSource: 0
   Lightning: {fileID: 1594449160331678, guid: 86bf5ea41080346548038b8102b367d0, type: 3}
